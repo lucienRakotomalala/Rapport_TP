@@ -1,0 +1,5 @@
+\select@language {french}
+\contentsline {chapter}{Introduction}{1}{chapter*.2}
+\contentsline {chapter}{\numberline {1}Syst\IeC {\`e}me de Maintenance automatis\IeC {\'e}}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Atelier de peinture et de polissage}{4}{chapter.2}
+\contentsline {chapter}{\numberline {3}Protocole de communication informatique}{7}{chapter.3}
