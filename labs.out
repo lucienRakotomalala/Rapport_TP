@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Goal}{}% 1
+\BOOKMARK [1][-]{section.2}{The board}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{A word about memory sections}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Basic tasks}{}% 4
+\BOOKMARK [1][-]{section.4}{OS system calls and task launching}{}% 5
+\BOOKMARK [2][-]{subsection.4.1}{Task activation and scheduling}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.2}{Task chaining}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.3}{Pre-task and Post-task hooks}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.4}{Extended tasks and synchronization using events}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Alarms, periodic tasks and ISR2}{}% 10
+\BOOKMARK [2][-]{subsection.5.1}{First application, basic use of alarms}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.2}{Second application, starting and stopping alarms}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.3}{Third application}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.4}{Chase}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.5}{Using an ISR2}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{Shared object access protection}{}% 16
+\BOOKMARK [2][-]{subsection.6.1}{Goal}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.2}{Application requirements}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.3}{Global variable protection}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.4}{Protection with an internal resource}{section.6}% 20
+\BOOKMARK [1][-]{section.7}{Adding a service into Trampoline}{}% 21
+\BOOKMARK [2][-]{subsection.7.1}{Adding a semaphore object}{section.7}% 22
+\BOOKMARK [2][-]{subsection.7.2}{Semaphore services}{section.7}% 23
